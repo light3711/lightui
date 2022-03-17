@@ -1,0 +1,38 @@
+{
+  "files": {
+    "0.e441dcc1.iframe.bundle.js": "./0.e441dcc1.iframe.bundle.js",
+    "0.e441dcc1.iframe.bundle.js.map": "./0.e441dcc1.iframe.bundle.js.map",
+    "1.5d532d21.iframe.bundle.js": "./1.5d532d21.iframe.bundle.js",
+    "1.5d532d21.iframe.bundle.js.map": "./1.5d532d21.iframe.bundle.js.map",
+    "2.90a94a99.iframe.bundle.js": "./2.90a94a99.iframe.bundle.js",
+    "3.ddc2c704.iframe.bundle.js": "./3.ddc2c704.iframe.bundle.js",
+    "main.css": "./static/css/main.3ac685d5.chunk.css",
+    "main.js": "./main.0d49f998.iframe.bundle.js",
+    "main.css.map": "./static/css/main.3ac685d5.chunk.css.map",
+    "runtime~main.js": "./runtime~main.fa428059.iframe.bundle.js",
+    "vendors~main.js": "./vendors~main.9e1445ed.iframe.bundle.js",
+    "vendors~main.js.map": "./vendors~main.9e1445ed.iframe.bundle.js.map",
+    "7.45236ab1.iframe.bundle.js": "./7.45236ab1.iframe.bundle.js",
+    "8.4915e657.iframe.bundle.js": "./8.4915e657.iframe.bundle.js",
+    "8.4915e657.iframe.bundle.js.map": "./8.4915e657.iframe.bundle.js.map",
+    "9.60241eb6.iframe.bundle.js": "./9.60241eb6.iframe.bundle.js",
+    "0.e441dcc1.iframe.bundle.js.LICENSE.txt": "./0.e441dcc1.iframe.bundle.js.LICENSE.txt",
+    "1.5d532d21.iframe.bundle.js.LICENSE.txt": "./1.5d532d21.iframe.bundle.js.LICENSE.txt",
+    "8.4915e657.iframe.bundle.js.LICENSE.txt": "./8.4915e657.iframe.bundle.js.LICENSE.txt",
+    "iframe.html": "./iframe.html",
+    "static/media/1.93e0bffd.jpg": "./static/media/1.93e0bffd.jpg",
+    "static/media/1.c8e0bfd9.png": "./static/media/1.c8e0bfd9.png",
+    "static/media/2.47f24c14.png": "./static/media/2.47f24c14.png",
+    "static/media/2.a4a77378.jpg": "./static/media/2.a4a77378.jpg",
+    "static/media/3.c58f047f.png": "./static/media/3.c58f047f.png",
+    "static/media/3.c5bb4bd6.jpg": "./static/media/3.c5bb4bd6.jpg",
+    "static/media/4.5d869d41.jpg": "./static/media/4.5d869d41.jpg",
+    "vendors~main.9e1445ed.iframe.bundle.js.LICENSE.txt": "./vendors~main.9e1445ed.iframe.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.fa428059.iframe.bundle.js",
+    "vendors~main.9e1445ed.iframe.bundle.js",
+    "static/css/main.3ac685d5.chunk.css",
+    "main.0d49f998.iframe.bundle.js"
+  ]
+}
